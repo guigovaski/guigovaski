@@ -19,7 +19,7 @@ Banco de Dados, aprendendo GIT, e um pouco de Front (HTML, CSS e JavaScript)
 <a href="https://www.linkedin.com/in/guilherme-govaski-533079216/" target="_blank">
   <img align="center" alt="guigovaski-linkedin" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
-<a href="mailto:guilhermegovaski@hotmail.com">
+<a href="mailto:guilhermegovaski@hotmail.com" target="_blank">
   <img align="center" alt="guigovaski-email" width="40" height="30" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" style="max-width:100%;">
 </a>
 
