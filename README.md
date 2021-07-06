@@ -16,7 +16,7 @@ Estou fazendo alguns cursos externos e no momento estou me aprofundando em Pytho
 Banco de Dados, aprendendo GIT, e um pouco de Front (HTML, CSS e JavaScript) 
 
 ## Contact
-<a href="https://www.linkedin.com/in/guilherme-govaski-533079216/" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-govaski/" target="_blank">
   <img align="center" alt="guigovaski-linkedin" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="mailto:guilhermegovaski@hotmail.com" target="_blank">
