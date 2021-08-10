@@ -8,11 +8,11 @@ name="Guilherme_Govaski"
 * :house:	Moro em Curitiba, Paraná
 * :mortar_board: Estudante de Engenharia de Software @Uninter
 * :books: No momento tenho conhecimento em:
-  * :snake: Python, Django Framework, SQLite, MySQL, GIT, HTML e CSS.
+  * :snake: Python, Django Framework, SQLite, MySQL, GiT, HTML e CSS.
 ---
 :mortar_board: :books: ... <br>
 Atualmente cursando bacharelado em Engenharia de Software - 1º semestre <br>
-Estou fazendo alguns cursos externos e no momento estou me aprofundando em Python, estudando Django Framework, <br>
+Estou fazendo alguns cursos também e no momento estou me aprofundando em Python, estudando Django Framework, <br>
 Banco de Dados, aprendendo Git e um pouco de Front (HTML, CSS e JavaScript) 
 
 ## Contact
