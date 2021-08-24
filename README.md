@@ -5,15 +5,12 @@ name="Guilherme_Govaski"
 * Pretendo atuar com Back-end
 
 ## About
-* :house:	Moro em Curitiba, Paraná
+* :house: Curitiba, Paraná
 * :mortar_board: Estudante de Engenharia de Software @Uninter
-* :books: No momento tenho conhecimento em:
-  * :snake: Python, Django Framework, SQLite, MySQL, GiT, HTML e CSS.
 ---
 :mortar_board: :books: ... <br>
-Atualmente cursando bacharelado em Engenharia de Software - 1º semestre <br>
-Estou fazendo alguns cursos também e no momento estou me aprofundando em Python, estudando Django Framework, <br>
-Banco de Dados, aprendendo Git e um pouco de Front (HTML, CSS e JavaScript) 
+Cursando bacharelado em Engenharia de Software - 1º semestre <br>
+Adquirindo habilidades em: Python, Django, JavaScript, Banco de dados, Git e um pouco de front (HTML e CSS)
 
 ## Contact
 <a href="https://www.linkedin.com/in/guilherme-govaski/" target="_blank">
