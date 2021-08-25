@@ -2,7 +2,7 @@
 name="Guilherme_Govaski"
 
 * Programador JR
-* Pretendo atuar com Back-end
+* Back-end <3
 
 ## About
 * :house: Curitiba, Paraná
@@ -26,4 +26,3 @@ Adquirindo habilidades em: Python, Django, JavaScript, Banco de dados, Git e um 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql-logo" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git-logo" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html-logo" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css-logo" width="40" height="40" style="max-width:100%;"></img>
