@@ -10,7 +10,7 @@ name="Guilherme_Govaski"
 ---
 :mortar_board: :books: ... <br>
 Cursando bacharelado em Engenharia de Software - 1º semestre <br>
-Adquirindo habilidades em: Python, Django, JavaScript, Banco de dados, Git e um pouco de front (HTML e CSS)
+Adquirindo habilidades em: Python, Django, JavaScript, Java, Banco de dados, Git e um pouco de front (HTML e CSS)
 
 ## Contact
 <a href="https://www.linkedin.com/in/guilherme-govaski/" target="_blank">
