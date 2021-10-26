@@ -9,8 +9,8 @@ name="Guilherme_Govaski"
 * :mortar_board: Estudante de Engenharia de Software @Uninter
 ---
 :mortar_board: :books: ... <br>
-Cursando bacharelado em Engenharia de Software - 2º semestre <br>
-Adquirindo habilidades em: Python, Django, JavaScript, Banco de dados e front-end (HTML e CSS)
+Cursando Engenharia de Software - 2º semestre <br>
+Adquirindo habilidades em: Python, Django, Node.js, React.js, HTML, CSS, JavaScript e Banco de dados.
 
 ## Contact
 <a href="https://www.linkedin.com/in/guilherme-govaski/" target="_blank">
@@ -23,7 +23,8 @@ Adquirindo habilidades em: Python, Django, JavaScript, Banco de dados e front-en
 ## My Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python-logo" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django-logo" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql-logo" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript-logo" width="40" height="40" style="max-width:100%;"></img>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs-logo" width="40" height="40" style="max-width:100%"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html-logo" width="40" height="40" style="max-width:100%;"></img>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css-logo" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql-logo" width="40" height="40" style="max-width:100%;"></img>
