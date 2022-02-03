@@ -2,15 +2,14 @@
 name="Guilherme_Govaski"
 
 * Programador JR
-* Back-end <3
+* Fullstack <3
 
 ## About
 * :house: Curitiba, Paraná
-* :mortar_board: Estudante de Engenharia de Software @Uninter
+* :mortar_board: Cursando Análise e Desenvolvimento de Sistemas @ENIAC
 ---
 :mortar_board: :books: ... <br>
-Cursando Engenharia de Software - 2º semestre <br>
-Adquirindo habilidades em: Python, Django, Node.js, React.js, HTML, CSS, JavaScript e Banco de dados.
+Conhecimentos: Python, Django, JavaScript, React.js, HTML e CSS, Node.js e Banco de dados.
 
 ## Contact
 <a href="https://www.linkedin.com/in/guilherme-govaski/" target="_blank">
