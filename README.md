@@ -1,15 +1,20 @@
 # Welcome to my profile 
-name="Guilherme_Govaski"
+const name = "Guilherme Govaski";
 
-* Programador JR
-* Fullstack <3
+* Programador Fullstack <3
 
 ## About
 * :house: Curitiba, Paraná
 * :mortar_board: Cursando Análise e Desenvolvimento de Sistemas @ENIAC
 ---
-:mortar_board: :books: ... <br>
-Conhecimentos: JavaScript, React.js, Node.js, Python, Django, HTML e CSS e Banco de dados.
+## Habilidades 💻<br>
+• JavaScript<br>
+• React.js<br>
+• Node.js<br>
+• Python<br>
+• Django<br>
+• HTML e CSS<br>
+• Banco de dados<br>
 
 ## Contact
 <a href="https://www.linkedin.com/in/guilherme-govaski/" target="_blank">
