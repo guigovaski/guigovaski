@@ -2,14 +2,12 @@
 const name = "Guilherme Govaski";
 
 ## Sobre
-* 🧑‍💻 Desenvolvedor Fullstack
-* 🏠 Curitiba, Paraná
+* 🧑‍💻 Desenvolvedor Backend
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas @Eniac
 ---
 ## Habilidades 💻<br>
-• JavaScript<br>
+• C#<br>
 • Node.js<br>
-• Python<br>
 • React.js<br>
 • HTML e CSS<br>
 • Banco de dados<br>
@@ -23,10 +21,10 @@ const name = "Guilherme Govaski";
 </a>
 
 ## Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript-logo" width="40" height="40" style="max-width:100%;"></img>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp-logo" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs-logo" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python-logo" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs-logo" width="40" height="40" style="max-width:100%"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html-logo" width="40" height="40" style="max-width:100%;"></img>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css-logo" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css-logo" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql-logo" width="40" height="40" style="max-width:100%;"></img>
