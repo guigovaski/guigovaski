@@ -3,7 +3,7 @@ const name = "Guilherme Govaski";
 
 ## Sobre
 * 🧑‍💻 Desenvolvedor Backend
-* 🎓 Cursando Análise e Desenvolvimento de Sistemas @Eniac
+* 🎓 Cursando Engenharia da Computação @Descomplica
 ---
 ## Habilidades 💻<br>
 • C#<br>
