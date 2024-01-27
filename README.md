@@ -1,20 +1,16 @@
 <img src="https://github.com/guigovaski/images_repository/blob/main/assets/7118756_3426526.jpg?raw=true" alt="Programmer" width="200" height="200" align="right" />
   
-### <div align="left">I'm Guilherme, Full Stack Developer 🧑‍💻</div>  
+### <div align="left">Dev Full Stack</div>    
 
-- 💻 I've been learning to code for a little more than 2 years and I want to become a successful software engineer.  
+- 🧑‍🎓 Graduando em Engenharia da Computação
   
 
-- 🧑‍🎓 I'm undergraduate student of Computer Engineering  
-  
-
-- 🌎 I'm live in Curitiba, PR  
-  
+- 🌎 Curitiba, PR   
 
 <br/>  
 
 
-## My Skill Set  
+## Skills
 <table><tr><td valign="top" width="33%">
 
 
